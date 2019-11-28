@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+.idea
+/dbnavigator.xml
+/misc.xml
+/modules.xml
+/codeStyles/Project.xml
+/Tutorial.iml
+/vcs.xml
