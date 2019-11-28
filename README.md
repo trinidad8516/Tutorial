@@ -1,3 +1,4 @@
+## Required tools
 Download the fallowing:
 install Homebrew
 open terminal then paste 
